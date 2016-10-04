@@ -14,6 +14,18 @@ namespace TorresdeHanoi
 {
     public partial class torresHanoi : Form
     {
+        private bool Jugar = false;// se crea uan variable que se rellena con el valor si se esta jugando
+        private int finalA, finalB, finalC; //se declaran las variables que "sellan" la torre
+        public int Intentos, NumAnillos, intentosMin; //se crean las variables que cuentan los intentos, los anillos que deben usarse y el numero minimo de intentos que debe realizar
+        private int[] TorreA, TorreB, TorreC; // se utilizan vectores para las torres que estas cargan los anillos
+        private int AnillosA, AnillosB, AnillosC;//de crean las variables anillos para validar si se cumplen las reglas del juego
+        private bool intA, intB, intC;
+        private int posx;
+        int comp = 0;
+        int comp2 = 0;
+        Color color;
+        Graphics crear;
+        Stopwatch cronos = new Stopwatch();
 
         public torresHanoi()
         {

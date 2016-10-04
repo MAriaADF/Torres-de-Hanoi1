@@ -27,3 +27,5 @@ C:\Users\Hellen\Downloads\Torres de hanoi\JCVDTorresdeHanoi\obj\Debug\JCVDTorres
 C:\Users\Hellen\Downloads\Torres de hanoi\JCVDTorresdeHanoi\obj\Debug\JCVDTorresdeHanoi.pdb
 C:\Users\Hellen\Documents\GitHub\Torres de hanoi\JCVDTorresdeHanoi\obj\Debug\JCVDTorresdeHanoi.exe
 C:\Users\Hellen\Documents\GitHub\Torres de hanoi\JCVDTorresdeHanoi\obj\Debug\JCVDTorresdeHanoi.pdb
+C:\Users\Hellen\Documents\GitHub\Torres-de-Hanoi1\Torres de hanoi\JCVDTorresdeHanoi\obj\Debug\JCVDTorresdeHanoi.exe
+C:\Users\Hellen\Documents\GitHub\Torres-de-Hanoi1\Torres de hanoi\JCVDTorresdeHanoi\obj\Debug\JCVDTorresdeHanoi.pdb
